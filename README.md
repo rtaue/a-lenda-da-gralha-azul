@@ -1,6 +1,6 @@
 # A Lenda da Gralha Azul
 
-![](Images/screenshot01.png)
+![](Images/screenshot01.jpeg)
 
 Made with Processing
 
@@ -14,15 +14,15 @@ A Lenda da Gralha Azul gameplay video: https://youtu.be/9Ck7hdQdPMQ
 
 ## Screenshots
 
-![](Images/screenshot02.png)
+![](Images/screenshot02.jpeg
 
-![](Images/screenshot03.png)
+![](Images/screenshot03.jpeg)
 
-![](Images/screenshot04.png)
+![](Images/screenshot04.jpeg)
 
-![](Images/screenshot05.png)
+![](Images/screenshot05.jpeg)
 
-![](Images/screenshot06.png)
+![](Images/screenshot06.jpeg)
 
 ## Build
 
